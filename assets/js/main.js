@@ -259,5 +259,3 @@
   new PureCounter();
 
 })()
-
-console.log("tout est ok")
